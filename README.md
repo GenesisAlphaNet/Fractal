@@ -1,4 +1,5 @@
-# Fractal
+# Fractal CAT mint
+hetzner cpx51 önerilir
 
 tek seferde hepsi
   
