@@ -1,6 +1,6 @@
 # Fractal CAT mint
 hetzner cpx51 önerilir
-
+[yardım lazım olursa discordumuza gelebilirsiniz](https://discord.gg/genesisalpha) 
 tek seferde hepsi
   
     sudo apt-get update
